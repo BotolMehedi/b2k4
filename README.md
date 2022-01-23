@@ -1,5 +1,3 @@
-#ReCodedOldcr3K
-
 <p align="left"> 
 
 <a href="#"><img title="Made in Bangladesh" src="https://img.shields.io/badge/MADE%20IN-BANGLADESH-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
@@ -12,13 +10,13 @@
 
 <p align="center"><a href="https://github.com/botolmehedi/followers"><img title="Followers" src="https://img.shields.io/github/followers/botolmehedi?color=blue&style=flat-square"></a> <a href="https://www.youtube.com/mastertrick1"><img title="Youtube" src="https://img.shields.io/badge/YOUTUBE-%40mastertrick1-red?style=flat-square&logo=youtube"></a> <a href="https://www.facebook.com/groups/231747098048450"><img title="Messenger" src="https://img.shields.io/badge/Chat-Messenger-blue?style=flat-square&logo=messenger"></a></p>
 
-<h1 align="center">B2K4 1.0</h1>
+<h1 align="center">THE B2K4</h1>
 
-<p align="center">      2004-2005 FACEBOOK ID CLONER TOOL</p>
+<p align="center">      THE PREMIUM ASS FUCKER CLONER FOR BAD BOYS</p>
 
 ## ***About B2K4***:
 
-B2K4 is a python based old facebook accounts cracker script. You can crack unlimited old facebook accounts by using this tool. This tool works on any Android devices without root.
+B2K4 is a python based old facebook accounts cracker script. You can crack unlimited old facebook accounts by using this tool. This tool works on any Android devices. But this is a PAID TOOL.
 
 ## Installation :
 
@@ -26,13 +24,13 @@ B2K4 is a python based old facebook accounts cracker script. You can crack unlim
 
 $ pkg update && pkg upgrade
 
-$ pkg install python
+$ pkg install python2
 
 $ pkg install python3
 
 $ pkg install git
 
-$ pkg install pip
+$ pkg install pip2
 
 $ pkg install pip3
 
@@ -50,9 +48,11 @@ $ git clone https://github.com/botolmehedi/b2k4
 
 $ clear && ls && cd b2k4 && ls
 
-$ python b2k4.py
+$ python2 b2k4.py
 
 ```
+
+## Signup : [You need to signup here for using this tool.](http://theb2k4.web.app)
 
 ## ***Follow Me***
 
@@ -68,7 +68,7 @@ $ python b2k4.py
 
 * Instagram : [Follow Me](https://www.instagram.com/MehtanOfficial)
 
-* Twitter : [Follow Me](https://www.twitter.com/botolbaba)
+* Twitter : [Follow Me](https://www.twitter.com/thebotolbaba)
 
 * GitHub : [Follow Me](https://www.github.com/botolmehedi)
 
@@ -76,4 +76,11 @@ $ python b2k4.py
 
 ***Don't try to edit or modify this tool. This tool is only for educational purpose. If you use this tool for other purposes except education we will not be responsible in such cases.***
 
-# ThanksToAzim69
+# ThanksTo
+```
+Azim Mahmud
+Niki Cyber
+Hunter Alamin
+Tahmid Rayat
+69 Indonesian Coders❤
+```
