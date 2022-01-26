@@ -1,18 +1,16 @@
 <p align="left"> 
-
 <a href="#"><img title="Made in Bangladesh" src="https://img.shields.io/badge/MADE%20IN-BANGLADESH-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
-
 </p>
 
 <p align="center"><a href="https://github.com/botolmehedi/B2K4"><img title="B2K4" src="https://i.ibb.co/ZHPzyQd/20211216-181120.jpg"></a>
 
-<p align="center"><a href="https://github.com/botolmehedi"><img title="Author" src="https://img.shields.io/badge/Author-Botol--Mehedi-red.svg?style=for-the-badge&logo=github"></a></p>
-
-<p align="center"><a href="https://github.com/botolmehedi/followers"><img title="Followers" src="https://img.shields.io/github/followers/botolmehedi?color=blue&style=flat-square"></a> <a href="https://www.youtube.com/mastertrick1"><img title="Youtube" src="https://img.shields.io/badge/YOUTUBE-%40mastertrick1-red?style=flat-square&logo=youtube"></a> <a href="https://www.facebook.com/groups/231747098048450"><img title="Messenger" src="https://img.shields.io/badge/Chat-Messenger-blue?style=flat-square&logo=messenger"></a></p>
+<p align="center">
+<a href="https://github.com/botolmehedi"><img title="Author" src="https://img.shields.io/badge/By-Botol--Baba-red.svg?style=for-the-badge&logo=github"></a>
+</p>
 
 <h1 align="center">THE B2K4</h1>
 
-<p align="center">      THE PREMIUM ASS FUCKER CLONER FOR BAD BOYS</p>
+<p align="center">      THIS IS THE PREMIUM VERSION OF BOTs ASS FUCKER </p>
 
 ## About
 
@@ -25,34 +23,24 @@ pkg update -y && pkg upgrade -y && pkg install python -y && pkg install python2 
 ```
 
 ## Signup : [You need to signup here for using this tool.](http://theb2k4.web.app)
+![THE B2K4](https://user-images.githubusercontent.com/64999484/151096836-066f8785-db65-49bc-9d41-aa80667f622d.png)
+
 
 ## ***Follow Me***
 
 * Youtube : [Subscribe Now](https://www.youtube.com/MasterTrick1)
-
 * Website : [Visit Now](https://linktr.ee/botolbaba)
-
 * Page : [Follow Us](https://www.facebook.com/TeamVVirus)
-
 * Group : [Join Us](https://www.facebook.com/groups/231747098048450)
-
 * Telegram : [Join Now](https://t.me/mastertrick2)
-
 * Instagram : [Follow Me](https://www.instagram.com/MehtanOfficial)
-
 * Twitter : [Follow Me](https://www.twitter.com/thebotolbaba)
 
-* GitHub : [Follow Me](https://www.github.com/botolmehedi)
+# ThanksTo
+```
+69 Indonesian Coders❤ ; Azim Mahmud ; Niki Cyber ; Hunter Alamin ; Tahmid Rayat
+```
 
 ### Warning
 
 ***Don't try to edit or modify this tool. This tool is only for educational purpose. If you use this tool for other purposes except education we will not be responsible in such cases.***
-
-# ThanksTo
-```
-Azim Mahmud
-Niki Cyber
-Hunter Alamin
-Tahmid Rayat
-69 Indonesian Coders❤
-```
