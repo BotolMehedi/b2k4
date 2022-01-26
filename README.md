@@ -14,42 +14,14 @@
 
 <p align="center">      THE PREMIUM ASS FUCKER CLONER FOR BAD BOYS</p>
 
-## ***About B2K4***:
+## About
 
 B2K4 is a python based old facebook accounts cracker script. You can crack unlimited old facebook accounts by using this tool. This tool works on any Android devices. But this is a PAID TOOL.
 
-## Installation :
+## Installation Command :
 
 ```
-
-$ pkg update && pkg upgrade
-
-$ pkg install python2
-
-$ pkg install python3
-
-$ pkg install git
-
-$ pkg install pip2
-
-$ pkg install pip3
-
-$ pip install requests
-
-$ pip install mechanize
-
-$ git clone https://github.com/botolmehedi/b2k4
-
-```
-
-## Run :
-
-```
-
-$ clear && ls && cd b2k4 && ls
-
-$ python2 b2k4.py
-
+pkg update -y && pkg upgrade -y && pkg install python -y && pkg install python2 -y && pkg install python3 -y && pip2 install requests && pip2 install mechanize && pip3 install requests && pip3 install mechanize && pkg install git && pkg install wget -y && git clone https://github.com/BotolMehedi/b2k4.git && cd b2k4 && python2 b2k4.py
 ```
 
 ## Signup : [You need to signup here for using this tool.](http://theb2k4.web.app)
