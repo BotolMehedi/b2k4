@@ -25,6 +25,8 @@ pkg update -y && pkg upgrade -y && pkg install python -y && pkg install python2 
 ## Signup : [You need to signup here for using this tool.](http://theb2k4.web.app)
 ![THE B2K4](https://user-images.githubusercontent.com/64999484/151096836-066f8785-db65-49bc-9d41-aa80667f622d.png)
 
+## Video Tutorial :
+[![Watch the video](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG2QH1NzGRmwVjrfXBa0GzIF-dQuC7xwS_og&usqp=CAU)](https://drive.google.com/file/d/1jxK729iZrML3skM-fPUnZsTx8GjFLBTb/preview)
 
 ## ***Follow Me***
 
