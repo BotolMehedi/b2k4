@@ -28,6 +28,12 @@ git clone https://github.com/BotolMehedi/b2k4.git
 cd b2k4 && python2 b2k4.py
 ```
 
+## Features :
+* ***150+ or more tools will be added Soon.***
+
+![All Features](https://user-images.githubusercontent.com/64999484/152101547-2d9604f5-9706-450f-8bd6-9f775f431903.jpg)
+
+
 ## Signup : [You need to signup here for using this tool.](http://theb2k4.web.app)
 ![THE B2K4](https://user-images.githubusercontent.com/64999484/151096836-066f8785-db65-49bc-9d41-aa80667f622d.png)
 
