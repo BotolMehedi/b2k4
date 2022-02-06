@@ -31,7 +31,7 @@ cd b2k4 && python2 b2k4.py
 ## Features :
 * ***150+ or more tools will be added Soon.***
 
-![All Features](https://user-images.githubusercontent.com/64999484/152268191-79752d67-318a-46dc-837d-7b2e95ea0f2e.jpg)
+![All Features](https://user-images.githubusercontent.com/64999484/152686947-dfd6b9e9-2430-43ca-b8b8-c90dba5a0677.jpg)
 
 
 ## Signup : [You need to signup here for using this tool.](http://theb2k4.web.app)
@@ -52,7 +52,12 @@ cd b2k4 && python2 b2k4.py
 
 # ThanksTo
 ```
-69 Indonesian Coders❤ ; Azim Mahmud ; Niki Cyber ; Hunter Alamin ; Tahmid Rayat
+• 69 Indonesian Coders❤
+• 69 Pakistani Coders❤
+• Azim Mahmud
+• Niki Cyber
+• Hunter Alamin
+• Tahmid Rayat
 ```
 
 ### Warning
