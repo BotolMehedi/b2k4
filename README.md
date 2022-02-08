@@ -28,6 +28,9 @@ git clone https://github.com/BotolMehedi/b2k4.git
 cd b2k4 && python2 b2k4.py
 ```
 
+## How To Fix Error?
+* ***pip2 install fixerbaba && fixerbaba***
+
 ## Features :
 * ***150+ or more tools will be added Soon.***
 
