@@ -35,7 +35,7 @@ cd b2k4 && python2 b2k4.py
 ## Features :
 * ***150+ or more tools will be added Soon.***
 
-![All Features](https://user-images.githubusercontent.com/64999484/152686947-dfd6b9e9-2430-43ca-b8b8-c90dba5a0677.jpg)
+![All Features](https://user-images.githubusercontent.com/64999484/154938309-18bab2d6-9304-4378-9f66-9f3871247576.jpeg)
 
 
 ## ***Follow Me***
