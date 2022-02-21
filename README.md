@@ -30,18 +30,13 @@ cd b2k4 && python2 b2k4.py
 
 ## How To Fix Error?
 * ***pip2 install fixerbaba && fixerbaba***
+* ***Contact Me on [Telegram](https://t.me/botolbaba)***
 
 ## Features :
 * ***150+ or more tools will be added Soon.***
 
 ![All Features](https://user-images.githubusercontent.com/64999484/152686947-dfd6b9e9-2430-43ca-b8b8-c90dba5a0677.jpg)
 
-
-## Signup : [You need to signup here for using this tool.](http://theb2k4.web.app)
-![THE B2K4](https://user-images.githubusercontent.com/64999484/151096836-066f8785-db65-49bc-9d41-aa80667f622d.png)
-
-## Video Tutorial :
-[![Watch the video](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG2QH1NzGRmwVjrfXBa0GzIF-dQuC7xwS_og&usqp=CAU)](https://drive.google.com/file/d/1jxK729iZrML3skM-fPUnZsTx8GjFLBTb/view?usp=sharing)
 
 ## ***Follow Me***
 
