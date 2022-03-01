@@ -33,6 +33,7 @@ cd b2k4 && python2 b2k4.py
 * ***Contact Me on [Telegram](https://t.me/botolbaba)***
 
 ## Features :
+* ***69 Tools Available Now.***
 * ***150+ or more tools will be added Soon.***
 
 ![All Features](https://user-images.githubusercontent.com/64999484/154938309-18bab2d6-9304-4378-9f66-9f3871247576.jpeg)
