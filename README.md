@@ -16,7 +16,7 @@
 
 B2K4 is a python based old facebook accounts cracker script. You can crack unlimited old facebook accounts by using this tool. This tool works on any Android devices. But this is a PAID TOOL.
 
-## Installation Command for Kali-Linux :
+## Installation for Kali-Linux Users :
 
 ```
 sudo apt-get update -y && sudo apt-get upgrade -y && sudo apt-get install python -y && sudo apt-get install python2 -y && sudo apt-get install python3 -y && pip2 install requests && pip2 install mechanize && pip3 install requests && pip3 install mechanize && sudo apt-get install git && sudo apt-get install wget -y
@@ -24,7 +24,7 @@ sudo apt-get update -y && sudo apt-get upgrade -y && sudo apt-get install python
 * ***It Will ask for [sudo] password.If it does just enter you root password if you haven't set any just enter your system password***
 
 
-## Installation Command for Kali-Linux Root Users :
+## Installation for Kali-Linux Root Users :
 
 ```
 apt-get update -y && apt-get upgrade -y && apt-get install python -y && apt-get install python2 -y && apt-get install python3 -y && pip2 install requests && pip2 install mechanize && pip3 install requests && pip3 install mechanize && apt-get install git && apt-get install wget -y
