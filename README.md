@@ -10,11 +10,11 @@
 
 <h1 align="center">THE B2K4</h1>
 
-<p align="center">      THIS IS THE PREMIUM VERSION OF BOTs ASS FUCKER </p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%235000F7&lines=THIS+IS+THE+PREMIUM+VERSION+OF+BOTs+ASS+FUCKER)](https://git.io/typing-svg)
 
 ## About
 
-B2K4 is a python based old facebook accounts cracker script. You can crack unlimited old facebook accounts by using this tool. This tool works on any Android devices. But this is a PAID TOOL.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23FF5A13&multiline=true&height=150&lines=B2K4+is+a+python+based+old+fb;accounts+cracker+script.+You+Can;crack+unlimited+old+facebook+ids;by+using+this+tool.+This+tool+works;on+any+Android+devices.;But+this+is+a+PAID+TOOL.)](https://git.io/typing-svg)
 
 ## Installation for Kali-Linux Users :
 
