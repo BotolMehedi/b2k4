@@ -19,7 +19,7 @@
 ## Installation for Kali-Linux Users :
 
 ```
-sudo apt-get update -y && sudo apt-get upgrade -y && sudo apt-get install python -y && sudo apt-get install python2 -y && sudo apt-get install python3 -y && pip2 install requests && pip2 install mechanize && pip3 install requests && pip3 install mechanize && sudo apt-get install git && sudo apt-get install wget -y
+sudo apt-get update -y ; sudo apt-get upgrade -y ; sudo apt-get install python -y ; sudo apt-get install python2 -y ; sudo apt-get install python3 -y ; apt install curl ; curl https://bootstrap.pypa.io/pip/2.7/get-pip.py -o get-pip.py ; python get-pip.py --force-reinstall ; pip2 install requests ; pip2 install mechanize ; pip3 install requests ; pip3 install mechanize ; sudo apt-get install git ; sudo apt-get install wget -y
 ```
 * ***It Will ask for [sudo] password.If it does just enter you root password if you haven't set any just enter your system password***
 
@@ -27,8 +27,9 @@ sudo apt-get update -y && sudo apt-get upgrade -y && sudo apt-get install python
 ## Installation for Kali-Linux Root Users :
 
 ```
-apt-get update -y && apt-get upgrade -y && apt-get install python -y && apt-get install python2 -y && apt-get install python3 -y && pip2 install requests && pip2 install mechanize && pip3 install requests && pip3 install mechanize && apt-get install git && apt-get install wget -y
+apt-get update -y ; apt-get upgrade -y ; apt-get install python -y ; apt-get install python2 -y ; apt-get install python3 -y ; apt install curl ; curl https://bootstrap.pypa.io/pip/2.7/get-pip.py -o get-pip.py ; python get-pip.py --force-reinstall ; pip2 install requests ; pip2 install mechanize ; pip3 install requests ; pip3 install mechanize ; apt-get install git ; apt-get install wget -y
 ```
+
 
 ## Installation Command for Termux :
 
